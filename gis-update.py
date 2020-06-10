@@ -152,6 +152,6 @@ except OSError as e:
 f = open("current.txt", "w")
 f.write(file_hash.hexdigest())
 f.close()
-
+cleanUp()
 logging.info("Update Done!")
 logging.info("#" * 50)
