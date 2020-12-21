@@ -3,6 +3,6 @@ Written in python, an updater you can schedule to download updated GIS data from
 
 ## Super simple to run
 ´´´
-$ python gis-update.py
+python gis-update.py
 ´´´
 ## Only tested on windows
